@@ -78,6 +78,7 @@ body{
     text-decoration: none;
     font-weight:600;
     font-size:18px;
+    color:#025f86;
 }
 #navbar li a:hover{
     color: #088178;
